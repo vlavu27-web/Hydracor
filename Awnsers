@@ -1,0 +1,23 @@
+1. What was the hardest part?
+
+The hardest part was saving the data to a file and loading it back into the program.
+
+2. What would you improve with another hour?
+
+I would add more features like deleting media, editing items, and filtering by type.
+
+3. Did you use AI tools? If so, how?
+
+Yes. I used AI to help explain Java syntax and help dubug the file saving and loading process.
+
+4. Tell us one specific design decision you made
+
+I decided to make the project a simple console app so I could focus on the main features.
+
+5. Tell us one specific tradeoff you accepted
+
+I used simple ArrayLists instead of more advanced classes to keep the code easier to understand.
+
+6. Tell us one known limitation or bug
+
+The program can crash if the save file is changed or formatted incorrectly.
