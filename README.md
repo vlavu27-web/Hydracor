@@ -1,7 +1,7 @@
 ## How to Run
 
 1. Open the project in VS Code or any Java IDE
-2. Compile the file:
+2. Compile the file and run
 
 ## Features Implemented
 
